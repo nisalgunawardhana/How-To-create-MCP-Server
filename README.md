@@ -134,6 +134,7 @@ builder.Services.AddMcpServer()
     .WithStdioServerTransport()
     .WithToolsFromAssembly();
 
+Console.WriteLine(builder.Environment.ContentRootPath);
 var app = builder.Build();
 
 await app.RunAsync();
@@ -141,10 +142,11 @@ await app.RunAsync();
 [McpServerToolType]
 public static class HelloTool
 {
-    [McpServerTool(Name = "HelloTool"), Description("Say hello from the server")]
+    [McpServerTool(Name = "HelloTool"), Description("Say hello to Sri Lanka!")]
     public static void SayHello()
     {
         Console.WriteLine("Hello Sri Lanka!");
+        
     }
 }
 ```
@@ -152,6 +154,12 @@ public static class HelloTool
 ---
 
 ## 5. Configure MCP in VS Code
+
+Before creating the `.vscode` directory, navigate back to the project root if you're inside the `HelloSriLankaServer` folder:
+
+```zsh
+cd ..
+```
 
 1. In your project root, create a `.vscode` directory:
     ```zsh
@@ -169,7 +177,7 @@ public static class HelloTool
     - Enter `"dotnet"` as the command and press Enter.  
       ![Enter dotnet](images/image8.png)
 
-    - Enter the server name `"HelloSriLankaServer"` and press Enter.  
+    - Enter the server name `"Hello-SriLankaServer"` and press Enter.  
       ![Enter Server Name](images/image9.png)
 
     - The `mcp.json` file will be populated automatically. Replace its contents with the following:
@@ -177,17 +185,18 @@ public static class HelloTool
       ```json
       {
         "servers": {
-          "HelloSriLankaServer": {
+          "Hello-SriLankaServer": {
             "type": "stdio",
             "command": "dotnet",
             "args": [
               "run",
               "--project",
-              "${workspaceFolder}/HelloSriLankaServer.csproj"
+              "${workspaceFolder}/HelloSriLankaServer/HelloSriLankaServer.csproj"
             ]
           }
         }
       }
+      ```
       ```
       > **Note:** `${workspaceFolder}` will automatically resolve to your project root. If it does not work, replace it with the actual path to your `.csproj` file (right-click the file in VS Code and select "Copy Path").
 
