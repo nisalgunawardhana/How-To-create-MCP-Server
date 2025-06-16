@@ -1,0 +1,14 @@
+{
+    "servers": {
+        
+        "Hello-SriLankaServer": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "HelloSriLankaServer/HelloSriLankaServer.csproj"
+            ]
+        }
+    }
+}
