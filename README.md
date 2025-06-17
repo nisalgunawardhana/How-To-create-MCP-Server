@@ -270,6 +270,23 @@ You will receive a response from your MCP server in the Copilot Chat window.
 For a more advanced example, you can explore the [Try-mcp-location-server-demo](https://github.com/nisalgunawardhana/Try-mcp-location-server-demo) repository. This demo showcases how to build and interact with a location-based MCP server using .NET.
 
 ---
+## 🎁 Share and Win Amazing Tech Swag!
+
+Love this project? Share it with your friends and community for a chance to win exclusive tech swag!
+
+- **How to participate:**  
+  Fill out [this form](https://forms.gle/eGxg1bAZgqwq6mPw7) to request your personalized share link. We'll send your unique link to your email within 2–3 business days.
+
+- **Share and Win:**  
+  Once you receive your link, share it with your friends. Ask them to complete the project and include your referral link when they submit.
+
+- **Why share?**  
+  The more friends who use your referral link, the higher your chances to win cool tech goodies—stickers, shirts, and more!
+
+> **Note:** Make sure your email is visible in your GitHub profile or mention it in the form when you request your link.
+
+Stay tuned—winners will be announced in the Discussions tab!
+
 
 ## Additional Learning Resources
 
