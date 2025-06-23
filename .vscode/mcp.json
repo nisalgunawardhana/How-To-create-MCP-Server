@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "Hello-SriLankaServer": {
+            "type": "stdio",
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "E:/Courses/MCP Server/How-To-Create-MCP-Server/HelloSriLankaServer/HelloSriLankaServer.csproj"
+            ]
+        }
+    }
+}
