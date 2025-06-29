@@ -1,0 +1,112 @@
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.exe
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.deps.json
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.runtimeconfig.json
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.pdb
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.AI.Abstractions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Hosting.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.Console.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/ModelContextProtocol.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/ModelContextProtocol.Core.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/System.Net.ServerSentEvents.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.csproj.AssemblyReference.cache
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.AssemblyInfoInputs.cache
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.AssemblyInfo.cs
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.csproj.CoreCompileInputs.cache
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.sourcelink.json
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSri.5454D05A.Up2Date
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/refint/HelloSriLankaServer.dll
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.pdb
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.genruntimeconfig.cache
+C:/Users/uhche/Desktop/MCP Server/MCP/HelloSriLankaServer/obj/Debug/net8.0/ref/HelloSriLankaServer.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.deps.json
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.runtimeconfig.json
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/HelloSriLankaServer.pdb
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.AI.Abstractions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Hosting.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.Configuration.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.Console.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.Debug.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.EventLog.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Logging.EventSource.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/ModelContextProtocol.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/ModelContextProtocol.Core.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/System.IO.Pipelines.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/System.Net.ServerSentEvents.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/System.Text.Json.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.csproj.AssemblyReference.cache
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.AssemblyInfoInputs.cache
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.AssemblyInfo.cs
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.csproj.CoreCompileInputs.cache
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.sourcelink.json
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSri.5454D05A.Up2Date
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/refint/HelloSriLankaServer.dll
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.pdb
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/HelloSriLankaServer.genruntimeconfig.cache
+/workspaces/How-To-Create-MCP-Server/HelloSriLankaServer/obj/Debug/net8.0/ref/HelloSriLankaServer.dll
